@@ -15,3 +15,5 @@ Following are a list of available APIs that we need in order to work with the pr
 
 Also, we are using browsable API from django-rest-framework which helps us to work with
 APIs more convenient. 
+
+*Note that this is a test project and secret keys in settings.py are public
